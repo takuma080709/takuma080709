@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/takuma080709/takuma080709/master/profile-summary-card-output/blue_green/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/takuma080709/takuma080709/master/profile-summary-card-output/blue_green/4-productive-time.svg)
-```
-
-    
